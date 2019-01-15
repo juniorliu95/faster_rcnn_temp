@@ -1,0 +1,1 @@
+Added method='bilinear' in network.py to change ROIPooling into ROIAlignment
